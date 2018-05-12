@@ -1,7 +1,8 @@
 # nodeFsShowDown
 
 Create a Node App to perform below
-operations:
+operations
+
 a)To Create a new folder
 b)To retrieve the file names inside any folder in one depth
 c)To delete a folder
